@@ -18,6 +18,9 @@ function Header() {
         <HeaderLink to="/">
           <FormattedMessage {...messages.home} />
         </HeaderLink>
+        <HeaderLink to="/about/tkim90">
+          <FormattedMessage {...messages.about} />
+        </HeaderLink>
         <HeaderLink to="/features">
           <FormattedMessage {...messages.features} />
         </HeaderLink>

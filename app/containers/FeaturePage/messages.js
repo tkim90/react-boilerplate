@@ -18,7 +18,7 @@ export default defineMessages({
   },
   scaffoldingMessage: {
     id: `${scope}.scaffolding.message`,
-    defaultMessage: `Automate the creation of components, containers, routes, selectors
+    defaultMessage: `TAEAutomate the creation of components, containers, routes, selectors
   and sagas - and their tests - right from the CLI!`,
   },
   feedbackHeader: {
